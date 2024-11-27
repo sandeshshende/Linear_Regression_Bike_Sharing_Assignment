@@ -44,6 +44,7 @@ BikeIndia is ready to adjust its tactics, meet future demand, and accomplish lon
 - **Matplotlib** - version 3.8.0
 - **Plotly** - version 5.9.0
 - **sklearn** - version 1.4.2
+- **statsmodels** - version 0.14.4
 
 
 ## Acknowledgements
